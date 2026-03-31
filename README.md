@@ -2,10 +2,15 @@
 ### CSE0001 – Digital Literacy Project
 
 👨‍🎓 **Name:** Daksh Kumar 
+
 🆔 **Registration Number:** 25BCE10922
-  **Branch:** CSE Core
-📅 **Year:** 1st Year B.Tech  
-🏫 **University:** VIT Bhopal University  
+
+🎨**Branch:** CSE Core
+  
+📅 **Year:** 1st Year B.Tech 
+
+🏫 **University:** VIT Bhopal University 
+
 
 ---
 
